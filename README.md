@@ -9,11 +9,12 @@ Compact Rainmeter suite.
 - BackgroundColumn
 - Clock
 - Disks
+- Framerate
 - Music
 - Network
 - System
 - Title
-- Wifiject: Template for a 3D game
+- Wifi
 
 ##Usage
 
