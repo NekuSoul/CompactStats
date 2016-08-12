@@ -1,10 +1,10 @@
 CompactStats
 
-##Description
+## Description
 
 Compact Rainmeter suite.
 
-##Features
+## Features
 
 - BackgroundColumn
 - Clock
@@ -16,10 +16,10 @@ Compact Rainmeter suite.
 - Title
 - Wifi
 
-##Usage
+## Usage
 
 - Customization options can be found in the SETTINGS section in Settings.ini
 - The System skin needs the Afterburner plugin to work correctly
 
-##License
+## License
 MIT-License: See `License`
